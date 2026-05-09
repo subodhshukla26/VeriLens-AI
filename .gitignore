@@ -1,0 +1,8 @@
+.env
+.venv/
+.venv-1/
+__pycache__/
+*.pyc
+.streamlit/
+scratch/
+.DS_Store

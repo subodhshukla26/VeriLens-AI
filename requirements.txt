@@ -1,0 +1,9 @@
+streamlit
+PyMuPDF
+pandas
+pydantic
+google-genai
+tavily-python
+httpx
+beautifulsoup4
+python-dotenv
